@@ -3,3 +3,8 @@ p {
    background-color:gray;
    font-size:130%;
 }
+#intro {
+   color: white;
+   background-color: gray;
+}
+.first {font-size: 200%;}
